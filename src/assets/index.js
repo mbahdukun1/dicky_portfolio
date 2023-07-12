@@ -20,23 +20,34 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import vue from "./tech/vue.png";
+import pinia from "./tech/pinia.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import sagara from "./company/sagara.png";
+import rds from "../assets/company/rds.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Travelaku from "./Travelaku.png";
+import healtyTech from "./healty.png";
+import mamApa from "./mamapa.png";
 
 export {
+  healtyTech,
+  mamApa,
   logo,
   backend,
   creator,
   mobile,
+  pinia,
   web,
   github,
+  vue,
   menu,
   close,
   css,
@@ -55,8 +66,11 @@ export {
   meta,
   shopify,
   starbucks,
+  sagara,
+  rds,
   tesla,
   carrent,
   jobit,
   tripguide,
+  Travelaku,
 };
